@@ -51,4 +51,5 @@ Now if you want to change the number of layer I just have to execute the followi
 ```
 python trainRNN.py -e 6
 ```
-this will change the number of epoch to 6. Similarly we can use other commands as well. 
+this will change the number of epoch to 6. Similarly we can use other commands as well.
+My code plots to  wandb so please provide wandb key and project name and wandb entity appropriately so it can plot logs to wandb. 
